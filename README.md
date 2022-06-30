@@ -6,4 +6,4 @@ This is my first ever Lua & love2d project. It's an aim trainer, as the title su
 
 ### FAQ
 - Why does my screen flicker on startup?
-> This is often just your gpu driver setting up. If the flickering doesnt go away after 5-10 seconds, you should update your gpu drivers.
+ > This is often just your gpu driver setting up. If the flickering doesnt go away after 5-10 seconds, you should update your gpu drivers.
