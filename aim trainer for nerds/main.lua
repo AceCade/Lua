@@ -6,7 +6,7 @@ please credit me if you share this
 
 discord: AceCade#5223
 email: contact@acecade.xyz
-github:
+github: https://github.com/AceCade/Lua/blob/main/aim%20trainer%20for%20nerds/main.lua
 
 ]]
 
